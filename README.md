@@ -5,11 +5,11 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с 2021 после поступления в БГУИР я пробовал себя во многих направлениях, пробовал изучать язык Си, JavaScript, HTML, CSS но больше всего меня зацепила Java! С октября 2022 года я изучал Front-end разработку на курсе The Odin Project до апреля 2023. В мае 2023 года я пошел на курсы TeachMeSkills по Java разработке и обучаюсь там на данный момент!
+Я начинающий Java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с 2021 после поступления в БГУИР я пробовал себя во многих направлениях, пробовал изучать язык Си, JavaScript, HTML, CSS но больше всего меня зацепил Java! С октября 2022 года я изучал Front-end разработку на курсе The Odin Project до апреля 2023. В мае 2023 года я пошел на курсы TeachMeSkills по Java разработке и обучаюсь там на данный момент!
  
 - :telescope: Обучаюсь в TeachMeSkills!
 
-- :zap: Учусь в БГУИР на 2 курсе!
+- :zap: Учусь в БГУИР!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-harmyruf-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/harmyruf) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:laparevich777@gmail.com)
 
