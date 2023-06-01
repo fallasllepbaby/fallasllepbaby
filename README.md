@@ -77,7 +77,7 @@
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fallasllepbaby&theme=dark&background=000000" alt="Java Stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="javaStats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fallasllepbaby&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="javaStats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fallasllepbaby&layout=compact&theme=vision-friendly-dark"  />
     </td>
   </tr>
 </table>
