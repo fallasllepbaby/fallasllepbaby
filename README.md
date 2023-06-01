@@ -70,7 +70,7 @@
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Laparevich%20Daniil&theme=halloween)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ### ⚙️ GitHub статистика:
-
+<!--  -->
 <table>
   <tr>
     <td>
